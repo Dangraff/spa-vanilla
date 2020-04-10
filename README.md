@@ -1,1 +1,1 @@
-SPA_Vanilla_JavaScript
+# curso-spa
