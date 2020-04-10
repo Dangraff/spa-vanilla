@@ -1,0 +1,1 @@
+SPA_Vanilla_JavaScript
